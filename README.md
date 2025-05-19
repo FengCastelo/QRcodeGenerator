@@ -12,7 +12,7 @@ This is a application that generates QR codes and stores them in AWS S3. This pr
 ## Table of Contents
 
 - [How to Use](#how-to-use)
-  - [Pre-requisites](#prerequisites)
+  - [Pre-requisites](#pre-requisites)
   - [Environment Variables](#environment-variables)
   - [Running the Application](#running-the-application)
     - [Local Development](#local-development)
