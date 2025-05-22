@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.io.IOException;
 
 @RestController
     @RequestMapping("/qrcode")
@@ -19,7 +18,7 @@ import java.io.IOException;
 
     private QrCodeGeneratorService qrCodeGeneratorService;
 
-    public QrCodeController qrCodeController(QrCodeGeneratorService qrCodeService) {
+    public QrCodeController (QrCodeGeneratorService qrCodeService) {
         this.qrCodeGeneratorService = qrCodeService;
     }
 
