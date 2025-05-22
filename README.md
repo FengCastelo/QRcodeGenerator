@@ -37,12 +37,11 @@ This section provides comprehensive instructions for setting up and running the 
 
 Create a `.env` file in the project root with the following variables:
 
-```env
 AWS_ACCESS_KEY_ID=your_access_key
 AWS_SECRET_ACCESS_KEY=your_secret_key
 AWS_REGION=your_region
 AWS_BUCKET_NAME=your_bucket_name
-```
+
 
 ### Running the Application
 
