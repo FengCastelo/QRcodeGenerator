@@ -5,7 +5,7 @@
 ![AWS SDK](https://img.shields.io/badge/AWS%20SDK-2.24.12-yellow)
 ![Google ZXing](https://img.shields.io/badge/Google%20ZXing-3.5.2-blue)
 ![Docker](https://img.shields.io/badge/Docker-✓-blue)
-![Maven](https://img.shields.io/badge/Maven-3.9.6-red)
+[![Maven](https://img.shields.io/badge/Maven-3.9.6-red)](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 This is a application that generates QR codes and stores them in AWS S3. This project demonstrates the integration of Google's ZXing library for QR code generation and AWS S3 for storage.
 
